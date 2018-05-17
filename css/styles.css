@@ -6,3 +6,9 @@
     font-size: 24 px;
     color: red;
 }
+
+button{
+    font-size: 38px;
+    border-radius: 13px;
+    background-color: aquamarine;
+}
